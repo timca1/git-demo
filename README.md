@@ -1,0 +1,1 @@
+This repo contains sample code for demonstrating how to use `git` for version control.
